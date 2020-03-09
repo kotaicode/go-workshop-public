@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modules on Go™ | Ride the next wave</title>
+    <link>https://examplesite.com/modules/</link>
+    <description>Recent content in Modules on Go™ | Ride the next wave</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
+    
+	<atom:link href="https://examplesite.com/modules/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/advanced-topics/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/advanced-topics/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/concurrency/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/concurrency/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/finish-queue/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/finish-queue/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/go-for-java-developers/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/go-for-java-developers/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/hello-world/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/hello-world/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/interfaces-and-embeddings/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/interfaces-and-embeddings/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+    <item>
+      <title>Hello Universe</title>
+      <link>https://examplesite.com/modules/queue-service/</link>
+      <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
+      
+      <guid>https://examplesite.com/modules/queue-service/</guid>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+    </item>
+    
+  </channel>
+</rss>
