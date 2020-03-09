@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Go™ | Ride the next wave</title>
-    <link>https://examplesite.com/</link>
+    <link>http://kotaico.de/go-workshop-public/</link>
     <description>Recent content on Go™ | Ride the next wave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Mar 2020 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kotaico.de/go-workshop-public/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/advanced-topics/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/advanced-topics/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/advanced-topics/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/advanced-topics/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/concurrency/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/concurrency/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/concurrency/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/concurrency/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/finish-queue/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/finish-queue/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/finish-queue/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/finish-queue/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/go-for-java-developers/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/go-for-java-developers/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/go-for-java-developers/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/go-for-java-developers/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/hello-world/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/hello-world/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/hello-world/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/hello-world/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/interfaces-and-embeddings/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/interfaces-and-embeddings/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/interfaces-and-embeddings/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/interfaces-and-embeddings/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://examplesite.com/modules/queue-service/</link>
+      <link>http://kotaico.de/go-workshop-public/modules/queue-service/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://examplesite.com/modules/queue-service/</guid>
+      <guid>http://kotaico.de/go-workshop-public/modules/queue-service/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
