@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modules on Go™ | Ride the next wave</title>
-    <link>http://kotaico.de/go-workshop-public/modules/</link>
+    <link>https://kotaico.de/go-workshop-public/modules/</link>
     <description>Recent content in Modules on Go™ | Ride the next wave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="http://kotaico.de/go-workshop-public/modules/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kotaico.de/go-workshop-public/modules/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/advanced-topics/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/advanced-topics/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/advanced-topics/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/advanced-topics/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/concurrency/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/concurrency/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/concurrency/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/concurrency/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/finish-queue/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/finish-queue/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/finish-queue/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/finish-queue/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/go-for-java-developers/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/go-for-java-developers/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/go-for-java-developers/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/go-for-java-developers/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/hello-world/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/hello-world/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/hello-world/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/hello-world/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/interfaces-and-embeddings/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/interfaces-and-embeddings/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/interfaces-and-embeddings/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/interfaces-and-embeddings/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>http://kotaico.de/go-workshop-public/modules/queue-service/</link>
+      <link>https://kotaico.de/go-workshop-public/modules/queue-service/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>http://kotaico.de/go-workshop-public/modules/queue-service/</guid>
+      <guid>https://kotaico.de/go-workshop-public/modules/queue-service/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
