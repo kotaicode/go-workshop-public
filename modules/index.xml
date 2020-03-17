@@ -44,7 +44,8 @@
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
       <guid>https://kotaico.de/go-workshop-public/modules/03-go-for-java-developers/</guid>
-      <description>Go for Java Developers [ ~2 hours ]  Interfaces vs. Implements  In Java interfaces are hard requirements In Go, they are convenient, implicit vehicles of behaviour It is almost duck typing, but much better  Embeddings vs.</description>
+      <description>Go for Java Developers [ ~2 hours ]  Implements or Satisfies
+ In Java interfaces are hard requirements In Go, they are convenient, implicit vehicles of behaviour It is almost duck typing, but much better  Embeddings vs.</description>
     </item>
     
     <item>
@@ -53,7 +54,8 @@
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
       <guid>https://kotaico.de/go-workshop-public/modules/01-hello-world/</guid>
-      <description>Get, Set, Go [ ~3 hours ]  Basic introduction  Install Golang  Learn to get and use libraries ( go get .</description>
+      <description>Get, Set, Go [ ~3 hours ]  Basic introduction
+ Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
@@ -71,7 +73,8 @@
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
       <guid>https://kotaico.de/go-workshop-public/modules/02-queue-service/</guid>
-      <description>Queueing Service [ ~3 hours ]  Messaging service  Extend the service to be a message processing one POST requests to send emails.</description>
+      <description>Queueing Service [ ~3 hours ]  Messaging service
+ Extend the service to be a message processing one POST requests to send emails.</description>
     </item>
     
   </channel>
