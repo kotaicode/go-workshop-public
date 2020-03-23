@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Modules on Go™ | Ride the next wave</title>
-    <link>https://kotaico.de/go-workshop-public/modules/</link>
+    <link>https://go-trainings.com/modules/</link>
     <description>Recent content in Modules on Go™ | Ride the next wave</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Oct 2019 11:22:16 +0600</lastBuildDate>
     
-	<atom:link href="https://kotaico.de/go-workshop-public/modules/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://go-trainings.com/modules/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Complete the puzzle</title>
-      <link>https://kotaico.de/go-workshop-public/modules/06-finish-queue/</link>
+      <link>https://go-trainings.com/modules/06-finish-queue/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/06-finish-queue/</guid>
+      <guid>https://go-trainings.com/modules/06-finish-queue/</guid>
       <description>Complete the Queing Service [ ~2 hours]  Link a database  Use an ORM? Learn to persist the data Singleton in Go - sync.</description>
     </item>
     
     <item>
       <title>Concurrency || Parallelism</title>
-      <link>https://kotaico.de/go-workshop-public/modules/04-concurrency/</link>
+      <link>https://go-trainings.com/modules/04-concurrency/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/04-concurrency/</guid>
+      <guid>https://go-trainings.com/modules/04-concurrency/</guid>
       <description> Concurrency [ ~3 hours ]  Go Routines  Fix the problems of overloaded queue Work in parallel Explore concurrency problems  Semaphores, WaitGroups, Thread safety  Change the queues to thread safe Write without race conditions Add attachments to emails  Channels  Create channels to communicate between modules Create background services (writers, readers) Read from channels   </description>
     </item>
     
     <item>
       <title>Expand the horizon</title>
-      <link>https://kotaico.de/go-workshop-public/modules/07-advanced-topics/</link>
+      <link>https://go-trainings.com/modules/07-advanced-topics/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/07-advanced-topics/</guid>
+      <guid>https://go-trainings.com/modules/07-advanced-topics/</guid>
       <description> Make HTTP requests (advanced) [ ~2 hours ] Create Some GUI [ ~3 hours ] Create Admin Panel [ ~2 hours ] Wrap Up [ ~1 hour ]  </description>
     </item>
     
     <item>
       <title>Go for JAVA™ developers</title>
-      <link>https://kotaico.de/go-workshop-public/modules/03-go-for-java-developers/</link>
+      <link>https://go-trainings.com/modules/03-go-for-java-developers/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/03-go-for-java-developers/</guid>
+      <guid>https://go-trainings.com/modules/03-go-for-java-developers/</guid>
       <description>Go for Java Developers [ ~2 hours ]  Implements or Satisfies
  In Java interfaces are hard requirements In Go, they are convenient, implicit vehicles of behaviour It is almost duck typing, but much better  Embeddings vs.</description>
     </item>
     
     <item>
       <title>Hello Universe</title>
-      <link>https://kotaico.de/go-workshop-public/modules/01-hello-world/</link>
+      <link>https://go-trainings.com/modules/01-hello-world/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/01-hello-world/</guid>
+      <guid>https://go-trainings.com/modules/01-hello-world/</guid>
       <description>Get, Set, Go [ ~3 hours ]  Basic introduction
  Install Golang  Learn to get and use libraries ( go get .</description>
     </item>
     
     <item>
       <title>Interfaces and {Embeddings}</title>
-      <link>https://kotaico.de/go-workshop-public/modules/05-interfaces-and-embeddings/</link>
+      <link>https://go-trainings.com/modules/05-interfaces-and-embeddings/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/05-interfaces-and-embeddings/</guid>
+      <guid>https://go-trainings.com/modules/05-interfaces-and-embeddings/</guid>
       <description> Interfaces and Embeddings [ ~3 hours ]  Interfaces  A Tree, Binary Tree, a Binary Search Tree Apply same algorithm to all trees, by keeping their behaviour behind interfaces Not only emails, but also chats A messaging server shall be able to handle chats too  Embeddings  A Tree, Binary Tree, a Binary Search Tree Exploit the simialarity in the structure of trees Emails and chats have things in common, extend the service   </description>
     </item>
     
     <item>
       <title>Let&#39;s queue it</title>
-      <link>https://kotaico.de/go-workshop-public/modules/02-queue-service/</link>
+      <link>https://go-trainings.com/modules/02-queue-service/</link>
       <pubDate>Mon, 09 Mar 2020 11:22:16 +0600</pubDate>
       
-      <guid>https://kotaico.de/go-workshop-public/modules/02-queue-service/</guid>
+      <guid>https://go-trainings.com/modules/02-queue-service/</guid>
       <description>Queueing Service [ ~3 hours ]  Messaging service
  Extend the service to be a message processing one POST requests to send emails.</description>
     </item>
